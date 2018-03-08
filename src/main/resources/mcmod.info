@@ -1,0 +1,16 @@
+[
+{
+  "modid": "technicallygems",
+  "name": "Technically Gems",
+  "description": "Creating energy from liquids!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Blueletric", "Wolferain"],
+  "credits": "Wolferain for the idea and art",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

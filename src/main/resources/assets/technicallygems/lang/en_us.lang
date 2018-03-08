@@ -1,0 +1,12 @@
+itemGroup.simplymetals=Simply Metals
+
+item.simplymetals.ingots.aluminumingot.name=Aluminum Ingot
+item.simplymetals.ingots.zincingot.name=Zinc Ingot
+item.simplymetals.ingots.siliconingot.name=Silicon Ingot
+item.simplymetals.ingots.titaniumingot.name=Titanium Ingot
+
+item.simplymetals.dusts.aluminumdust.name=Aluminum Dust
+item.simplymetals.dusts.zincdust.name=Zinc Dust
+item.simplymetals.dusts.silicondust.name=Silicon Dust
+item.simplymetals.dusts.titaniumdust.name=Titanium Dust
+item.simplymetals.dusts.irondust.name=Iron Dust
